@@ -1,6 +1,6 @@
 # CourseOutline 
 
-Robotics 10 consists of the following modules:
+Robotics 10 consists of the following CTS modules:
 * ELT1010: Electro-Assembly 1
 * ELT1030: Conversion & Distribution
 * ELT1050: Electronic Power Supply 1
