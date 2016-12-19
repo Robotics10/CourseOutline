@@ -24,7 +24,7 @@ Students experiment and work with principles of electrical energy conversion and
 ## ELT1050: Electronic Power Supply 1
 Students construct different types of alternating and direct current power supplies and demonstrate their application in electrical/electronic systems.
 ### Projects:
- * Build a power supply using perf board
+ * Build a power supply using a perf board
 
 ## ELT1080: Control Systems
 Students construct process control systems, demonstrate their basic operation and demonstrate procedures for testing them.
